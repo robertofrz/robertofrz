@@ -1,5 +1,6 @@
-Hi, I'm Roberto, I'm Brazilian, I'm 30 years old and I currently live in São Paulo city. I'm a self-taught professional in the field of web development, always motivated by curiosity and the desire to learn something new every day. With an ease in acquiring and applying new knowledge, I dedicate myself to technologies such as HTML, CSS, JavaScript and Git/GitHub, in addition to exploring areas such as UX/UI, web animations and responsive design. I believe in continuous learning and strive to understand not only the "how" but also the "why" behind the tools and methodologies I use.
-<!---
-robertofrz/robertofrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello world! I’m Roberto, and welcome to my GitHub profile!
+
+I have a strong foundation in HTML5, CSS3, and JavaScript, with experience in data handling using Web APIs such as Fetch, the DOM, and localStorage. I’m also proficient in Git/GitHub, Webpack for efficient module bundling, and Jest for unit testing, ensuring high-quality and maintainable code. Familiar with React and actively studying to strengthen my skills. I’m always eager to understand not just the ‘how’ but also the ‘why’ behind the tools and methodologies I use.
+
+Let’s connect! I’m open to exchanging ideas, learning, and collaborating on exciting projects!
+
